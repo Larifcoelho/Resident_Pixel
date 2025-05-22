@@ -1,6 +1,7 @@
 package jogo;
 // Teste GIT
 // Teste 2
+// Teste 3
 
 import jplay.GameImage;
 import jplay.Keyboard;
